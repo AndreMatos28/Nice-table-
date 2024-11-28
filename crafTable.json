@@ -1,0 +1,21 @@
+{
+  "version": "47.3.0",
+  "modid": "CraftStation",
+  "name": "CraftStation",
+  "description": "Um mod de exemplo",
+  "authors": ["CraftStation"],
+  "credits": " Forge e Minecraft",
+  "license": "MIT",
+  "dependencies": [
+    {
+      "modid": "forge",
+      "version": "47.3.0"
+    }
+  ],
+  "menuTypes": [
+    {
+      "type": "CraftStation:craft_table",
+      "name": "Tabela de Craft Personalizada"
+    }
+  ]
+}
